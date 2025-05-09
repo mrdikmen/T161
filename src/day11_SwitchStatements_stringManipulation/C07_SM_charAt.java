@@ -1,4 +1,4 @@
-package Day11_SwitchStatements_stringManipulation;
+package day11_SwitchStatements_stringManipulation;
 
 public class C07_SM_charAt {
     public static void main(String[] args) {
